@@ -1,0 +1,165 @@
+body {padding: 0; margin: 0; background-color: black;}
+
+/* ESTO ES LO DE LA PORTADA */
+
+
+.grupo {font-size: 24px; color: white; font-family: 'K2D', sans-serif; 
+	margin: 0; padding: 20px ; padding-top: 15px; width: 50%; position: absolute;}
+
+.integrantes {font-size: 12px; color: white; font-family: 'K2D', sans-serif;
+	margin: 0; padding: 20px ; padding-top: 35px; width: 50%; position: absolute; }
+
+.curso {font-size: 24px; color: white; font-family: 'K2D', sans-serif;
+	margin: 0; padding: 1260px ; padding-top: 15px; width: 50%; position: absolute;}
+
+.container container {display: flex; align-items: center;}
+.img1 {height: 950px; margin-left: -200px; margin-top: 60px; float: left;}
+
+.Subtitulo {font-size: 54px; color: white; font-family: 'K2D', sans-serif; font-weight: 300;
+	margin: 0; padding: 670px ; padding-top:250px; width: 50%; position: absolute; overflow: hidden;  text-align: right; }
+
+.Titulo {font-size: 80px; color: white; font-family: 'K2D', sans-serif; font-weight: 700;
+	margin: 0; padding: 540px ; padding-top:400px; width: 60%; position: absolute; overflow: hidden;  text-align: right; }
+
+/* ESTO ES LO DEL ENCABEZADO */
+
+.linea-blanca {border: none; height: 2px;background-color: white;margin: 20px auto; width: 90%;}
+
+.Encabeza container {display: flex; align-items: center;}
+
+.encabezado {font-size: 30px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:30px; width: 80%; margin: 20px auto;text-align:center; }
+
+.encabezado2 {font-size: 50px; color: white; font-family: 'K2D', sans-serif; font-weight: 400;
+	margin: 0; padding-top:-0px; width: 50%; padding-left: 480px; padding-bottom: 20px;}
+
+.linea-blanca2 {border: none; height: 2px;background-color: white;margin: 20px auto; width: 90%;}
+
+
+/* ESTO ES LO DE LA INTRO */
+
+.tit1 {font-size: 60px; color: white; font-family: 'K2D', sans-serif; font-weight:600;
+	margin: 0; padding-top:50px; width: 70%; padding-left: 100px;}
+
+
+.container2 container {display: flex; align-items: center;}
+.text1 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:0px; width: 70%; padding-left: 50px; overflow: hidden; }
+
+.img2 {height: 400px; margin-left:1000px; margin-top: -400px; float: left;}
+
+.encabezadofoto {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:10px; width: 75%; padding-left: 1120px; overflow: hidden; }
+
+/* NO SE POR QUE NO ME SE REFLEJAN LOS CAMBIOS DE ENCABEZADOFOTO EN LA PÁGINA, ONDA EL TAMAÑO */
+
+.text2 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:20px; width: 90%; padding-left: 50px;}
+
+.img3 {height: 900px; margin-top: -260px; margin-left:-200px; margin-bottom:-300px }
+
+.container3 {background-image: url('img4.png'); background-size: cover; background-position: center;  /* Centra la imagen */
+  width: 100%; height: 800px;position: relative; display: flex; justify-content: center; align-items: center; margin-top: 100px}
+
+.titulo2 {font-size: 60px; color: white; font-family: 'K2D', sans-serif; font-weight:600;
+	margin: 0; padding-top:30px; width: 100%; text-align: center;}
+
+.tit2 {font-size: 50px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:30px; width: 100%; text-align: center;}
+
+.linea-blanca3 {border: none; height: 2px;background-color: white;margin: 20px auto; width: 90%; margin-top: 80px;}
+
+
+.text3 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:-100px; width: 90%; padding-left: 50px; }
+
+
+
+/* ESTO ES LO DE LA HISTORIA */
+
+.container4 container {display: flex; align-items: center;}
+
+.titulo3 {font-size: 60px; color: white; font-family: 'K2D', sans-serif; font-weight:600;
+	margin: 0; padding-top:50px; width: 70%; padding-left: 100px;}
+
+.text4 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:50px; width: 60%; padding-left: 50px; flex:1; overflow: hidden;}
+ 
+.img5 {height: 400px; float: right; margin-top: -320px; margin-right: 100px;margin-bottom: 0px}
+
+
+.container5 container {position: relative;}
+
+.img6 {position: absolute; width: 100%; margin-top: 180px; margin-bottom: 500px;}
+
+.linea-blanca4 {border: none; height: 2px;background-color: white;margin: 20px auto; width: 40%; 
+	margin-top: 200px; margin-left: 700px; position: absolute;}
+
+.img7 {margin-top: 200px; height: 600px; padding-left: 200px; position: absolute;}
+
+.text5 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; width: 60%; padding-left: 650px; position: absolute; overflow: hidden; margin-top: 300px}
+
+.linea-blanca5 {border: none; height: 2px;background-color: white;margin: 20px auto; width: 90%; margin-top: 960px;}
+
+
+.subtitulo4 {justify-content: center; margin-top: 0px}
+.titulo4 {font-size: 60px; color: white; font-family: 'K2D', sans-serif; font-weight:600;
+	margin: 0; padding-top:50px; width: 100%; text-align: center; margin-left: 40px}
+.titulo5 {font-size: 50px; color: white; font-family: 'K2D', sans-serif; font-weight:400;
+	margin: 0; padding-top:10px; width: 70%; text-align: center;margin-left: 220px}
+
+/* .container container {display: flex; align-items: center;}
+.img1 {height: 950px; margin-left: -200px; margin-top: 60px; float: left;}
+
+.Subtitulo {font-size: 54px; color: white; font-family: 'K2D', sans-serif; font-weight: 300;
+	margin: 0; padding: 670px ; padding-top:250px; width: 50%; position: absolute; overflow: hidden;  text-align: right; }
+*/
+
+.container6 container {display: flex; align-items: center;}
+
+.img8 {margin-top: -50px; height: 700px; margin-left: -100px; float: left;}
+
+.texto6 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:150px; width: 40%; padding-left: 800px; position: absolute; overflow: hidden;}
+
+.break {height: 50px}
+
+.linea-blanca6 {border: none; height: 2px;background-color: white;margin: 20px auto; width: 60%; margin-top: 80px;}
+
+
+
+.container7 {display: flex; align-items: center;}
+
+
+.text7 {font-size: 20px; color: white; font-family: 'K2D', sans-serif; font-weight:200;
+	margin: 0; padding-top:30px; width: 40%; padding-left: 50px; margin-right: 20px; margin-left: 180px;}
+
+.img9 {height: 500px;}
+
+.linea-blanca7 {border: none; height: 2px;background-color: white;margin: 20px auto; width: 90%; margin-top: 80px;}
+
+
+
+
+
+
+.ref {font-size: 10px; color: white; font-family: 'K2D', sans-serif; font-weight:100;
+	margin: 0; padding-top:40px; width: 40%; padding-left: 450px; margin-right: 20px; text-align: center; }
+.img10 {width: 100%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
